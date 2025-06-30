@@ -15,9 +15,8 @@ This project focused on the analysis of industrial systems (OT) security:
 
 ## Deliverables
 
-- `rapport_TER.pdf` – Full technical report (in French)
+- 3 full attacks technical report (in French)
 - 7 reports that were weekly conducted
-- Summary of observed attack paths and mitigations
 
 ## Technologies & Concepts
 
